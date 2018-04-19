@@ -21,8 +21,8 @@ Starting from an image :
 2. Apply Gaussian Blur;
 3. Apply Canny Edge detection;
 4. On top of the identified edges apply a mask selecting a portion of the image area only;
-5. Apply the Hough Transformation to identify the line segments
-6. Extreapolate the segment to build contiuous lines and draw them on top of the initial image.
+5. Apply the Hough Transformation to identify the line segments corrensponding to the lanes;
+6. Extreapolate the segments to build contiuous lines and draw them on top of the initial image.
 
 The final image will be:
 
