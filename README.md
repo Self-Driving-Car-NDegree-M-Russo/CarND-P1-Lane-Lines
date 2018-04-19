@@ -13,7 +13,8 @@ Specifically, three steps can be identified:
 
 1. The building of a pipeline for line identification, that can take road images and video as input and return them with annotations;
 2. The pipeline implements generic helper functions that were provided upfront;
-3. Thos functions have also been extended to build continuous lines to identify lanes;
+3. Those functions have also been extended to build continuous lines to identify lanes.
 
-To complete the project, two files are submitted and part of this Git repo: a file containing project [code](https://github.com/russom/CarND-LaneLines-P1-RussoM/blob/master/P1-Michelangelo%20Russo-v1.1.ipynb) in the form of a Jupyther Python notebook and an annotated [writeup](https://github.com/udacity/CarND-LaneLines-P1/blob/master/writeup_template.md) describing the fundamental aspects and limitations of the solution implemented.
+
+To complete the project, two files are submitted and part of this Git repo: a file containing project [code](https://github.com/russom/CarND-LaneLines-P1-RussoM/blob/master/P1-Michelangelo%20Russo-v1.1.ipynb) in the form of a Jupyther Python notebook and an annotated [writeup](https://github.com/russom/CarND-LaneLines-P1-RussoM/blob/master/writeup.md) describing the fundamental aspects and limitations of the solution implemented.
 
