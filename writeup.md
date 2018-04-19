@@ -28,6 +28,8 @@ The final image will be:
 
 ![alt text][image2]
 
+---
+
 ### Notes
 
 A couple more steps are actually available (even if commented out) in the code. They can be helpful for troubleshooting, (for example, we can plot lines on top of the Canny edges, to verify consistency of the process) but do not affect the actual final image
@@ -38,6 +40,8 @@ The extrapolation from segments to continuous lines follows this sequence:
 - Left and right lanes are identified by the sign of the angular coefficient (<0 for left, >0 for right);
 - An average angular coefficient/parameter couple is calculated from the segments belonging to each lane;
 - Two continuous lines are then drawn based on this average values.
+
+---
 
 ### Shortcoming and Improvements
 
