@@ -30,7 +30,7 @@ The implementation steps are:
 
 1. Convert it in gray scale: 
 
-![alt text][image1]
+![alt text][image2]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
