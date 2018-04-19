@@ -47,7 +47,7 @@ The extrapolation from segments to continuous lines follows this sequence:
 
 The most significant shortcoming of this solution is most likely its reliance on a set of information that are assumed to stay constant but can actually change depending on the environment:
 
-* For example, the mask applied in step 4. of the pipeline(a triangular one that extends from the bottom of the image to a point in its middle) works for this camera mounting, but would not work for different positions, that could bring objects like the car hood in the field of view. More sophisticated solution could provide the possibility to select different masks for different configurations.
+* For example, the mask applied in step 4. of the pipeline (a triangular one that extends from the bottom of the image to a point in its middle) works for this camera mounting, but would not work for different positions, that could bring objects like the car hood in the field of view. More sophisticated solution could provide the possibility to select different masks for different configurations.
 
 * Another possible improvement could be in the area of the parameters used by the various functions, from the thresholds in the Canny edge detection to the ones used by the Hough transformation. These values here stay constant through the video feed, which is fine given that short duration, but on a real-life scenario the car could run into different light or weather conditions, where a different "tuning" might be advisable. In this scenario, and adptive solution capable of monitoring different sensors might even change these values in real time.
 
