@@ -13,7 +13,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./example/initial_image.jpg "StartingImage"
+[image1]: ./examples/initial_image.jpg "StartingImage"
 [image2]: ./examples/grayscale.jpg "Grayscale"
 
 ---
