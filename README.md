@@ -5,7 +5,7 @@
 Overview
 ---
 
-This is the firts Project due for the Udacity Self-Driving Car Nanodegree, after the Computer Vision Fundamentals Module.
+This is the first Project due for the Udacity Self-Driving Car Nanodegree, after the Computer Vision Fundamentals Module.
 
 For it, the goal is to identify the Left and Right lanes, in a set of images first and a video feed later, taken from a camera mounted in a fixed position in front of a moving car. The lanes are then shown on the original image/video stream, as continuous lines.
 
